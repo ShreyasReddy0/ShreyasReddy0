@@ -23,6 +23,5 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=ShreyasReddy0&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShreyasReddy0&theme=vision-friendly-dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ShreyasReddy0&theme=great-gratsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasReddy0&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
