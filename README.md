@@ -1,7 +1,7 @@
 # About Me:
 🚀 I’m an IT student and developer working on [CodFix AI](http://github.com/CodFix-AI), an AI-powered platform focused on code analysis and security.
 
-🧠 I enjoy solving Data Structures and Algorithms problems and regularly practice DSA on platforms like LeetCode to strengthen my problem-solving skills.
+🧠 I enjoy solving Data Structures and Algorithms problems and regularly practice DSA on platforms like [LeetCode](https://leetcode.com/u/ShreyasReddy0/) to strengthen my problem-solving skills.
 
 🔐 I’m currently learning Python, backend development, and cybersecurity, with a strong interest in building secure and scalable systems.
 
