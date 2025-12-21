@@ -28,9 +28,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyasReddy0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID"
-       width="180"
-       style="border-radius:50%; border:4px solid #facc15;" />
-</p>
