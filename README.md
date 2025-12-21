@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on CodFix AI<br>🌱 I’m currently learning Python and Cybersecurity (https://img.shields.io/badge/github-repo-blue?logo=github)
+🔭 I’m currently working on [!{CodFix AI](https://img.shields.io/badge/github-repo-blue?logo=github)]<br>🌱 I’m currently learning Python and Cybersecurity
 
 
 ## 🌐 Socials:
