@@ -23,7 +23,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<div align="center">
 ![](https://nirzak-streak-stats.vercel.app/?user=ShreyasReddy0&theme=vision-friendly-dark&hide_border=tru)<br/>
+</div>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasReddy0&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
