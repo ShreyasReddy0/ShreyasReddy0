@@ -1,10 +1,7 @@
 # About Me:
 - I’m a Computer Science student and developer working on CodFix AI, an AI-powered platform focused on code analysis and security.
-
 - I enjoy solving Data Structures and Algorithms problems and regularly practice DSA on platforms like LeetCode to strengthen my problem-solving skills.
-
 - I’m currently learning Python, backend development, and cybersecurity, with a strong interest in building secure and scalable systems.
-
 - I like working on real-world projects, exploring new technologies, and continuously improving my fundamentals.
 
 ## 🌐 Socials:
