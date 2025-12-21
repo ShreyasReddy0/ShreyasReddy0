@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on CodFix AI<br>🌱 I’m currently learning Python and Cybersecurity 
 
 
