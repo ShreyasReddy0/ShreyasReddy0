@@ -3,9 +3,9 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasreddysoli@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasreddy0/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1VuD4NRbSfEqXSzGlhTrLuKZiGPchcGQo/view)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasreddysoli@gmail.com) 
 
 
 # 💻 Tech Stack:
