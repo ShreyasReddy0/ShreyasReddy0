@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on [CodFix AI](https://github.com/CodFix-AI)<br>🌱 I’m currently learning Python and Cybersecurity
+🔭 I’m currently working on [CodFix AI](https://github.com/CodFix-AI)<br>🌱 Learning Python and Cybersecurity
 
 
 ## 🌐 Socials:
